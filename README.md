@@ -20,8 +20,7 @@
     <li>Abra o terminal e navegue até a pasta onde o arquivo gerenciador_tarefas.py está armazenado.</li>
 
     <li>Execute o seguinte comando para iniciar o aplicativo:<br>
-    <code>python gerenciador_tarefas.py
-</code>
+    <code>python main.py</code>
     </li>
     <li>Siga as instruções na tela para gerenciar suas tarefas.</li>           
 </ul>
