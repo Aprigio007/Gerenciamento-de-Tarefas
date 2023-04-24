@@ -11,17 +11,13 @@
 </ul>
 <h2>Requisitos</h2>
 <p>Este aplicativo requer o Python 3 instalado em seu sistema. Você também precisará ter as bibliotecas sqlite3 e os instalados. Para instalar as bibliotecas, basta digitar o seguinte comando no terminal:</p>
-<code'>pip install sqlite3
+<code>pip install sqlite3
 </code>
 <h2>Como usar</h2>
 <ul>
-    <li>Faça o download do arquivo gerenciador_tarefas.py.</li>
-
-    <li>Abra o terminal e navegue até a pasta onde o arquivo gerenciador_tarefas.py está armazenado.</li>
-
-    <li>Execute o seguinte comando para iniciar o aplicativo:<br>
-    <code>python main.py</code>
-    </li>
+    <li>Faça o download do arquivo main.py.</li>
+    <li>Abra o terminal e navegue até a pasta onde o arquivo main.py está armazenado.</li>
+    <li>Execute o seguinte comando para iniciar o aplicativo:<br><code>python main.py</code></li>
     <li>Siga as instruções na tela para gerenciar suas tarefas.</li>           
 </ul>
 <h2>Licença</h2>
